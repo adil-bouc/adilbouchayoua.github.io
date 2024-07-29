@@ -397,4 +397,14 @@ section.hero {
 .pin-spacer{
   height: 0;
 }
+#connect {
+  list-style-type: none;
+  text-decoration: none;
+  color: #C6CCC8;
+  cursor: pointer;
+  position: relative;
+  z-index: 9990;
+  left: -1em;
+  top: 10px;
+}
 }
