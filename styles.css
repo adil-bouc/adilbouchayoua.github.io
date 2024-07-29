@@ -376,11 +376,12 @@ section.website-content {
   position: relative;
   z-index: 9990;
 }
-}
+
 
 section.website-content {
   position: relative;
   width: 100%;
   height: 150vh;
   z-index: 10;
+}
 }
