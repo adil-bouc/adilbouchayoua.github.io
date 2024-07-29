@@ -354,3 +354,17 @@ section.website-content {
       margin-top: 1em;
   }
 }
+
+@media (max-width: 900px) {
+  .website-content h1 {
+      font-size: 25px;
+      padding: 1em;
+  }
+}
+
+section.website-content {
+  position: relative;
+  width: 100%;
+  height: 150vh;
+  z-index: 10;
+}
