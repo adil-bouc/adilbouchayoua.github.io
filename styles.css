@@ -394,4 +394,7 @@ section.hero {
   justify-content: center;
   align-items: center;
 }
+.pin-spacer{
+  height: 0;
+}
 }
