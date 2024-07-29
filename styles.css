@@ -388,7 +388,7 @@ section.website-content {
 section.hero {
   width: 100vw;
   height: 100vh;
-  background: url(./assets/hero.png) no-repeat 0% 50%;
+  background: url(./assets/hero.png) no-repeat 10% 50%;
   background-size: cover;
   display: flex;
   justify-content: center;
