@@ -357,9 +357,25 @@ section.website-content {
 
 @media (max-width: 900px) {
   .website-content h1 {
-      font-size: 25px;
+      font-size: 20px;
       padding: 1em;
   }
+
+  .services h1 {
+    color: white;
+    margin-top: 0.5em;
+    font-size: 100px;
+}
+
+#end {
+  list-style-type: none;
+  text-decoration: none;
+  scale: 7;
+  color: #ffffff;
+  font-size: 5px;
+  position: relative;
+  z-index: 9990;
+}
 }
 
 section.website-content {
